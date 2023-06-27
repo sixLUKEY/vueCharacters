@@ -1,0 +1,49 @@
+{
+    "characters": [
+        {
+            "name" : "Deidara",
+            "age" : "25",
+            "height" : "179",
+            "class" : "mist",
+            "id" : "1",
+            "avatar" : "https://i.ytimg.com/vi",
+            "faction" : "akatsuki"
+        },
+        {
+            "name" : "",
+            "age" : "",
+            "height" : "",
+            "class" : "",
+            "id" : "",
+            "avatar" : "https://i.ytimg.com/vi",
+            "faction" : ""
+        },
+        {
+            "name" : "",
+            "age" : "",
+            "height" : "",
+            "class" : "",
+            "id" : "",
+            "avatar" : "https://i.ytimg.com/vi",
+            "faction" : ""
+        },
+        {
+            "name" : "",
+            "age" : "",
+            "height" : "",
+            "class" : "",
+            "id" : "",
+            "avatar" : "https://i.ytimg.com/vi",
+            "faction" : ""
+        },
+        {
+            "name" : "",
+            "age" : "",
+            "height" : "",
+            "class" : "",
+            "id" : "",
+            "avatar" : "https://i.ytimg.com/vi",
+            "faction" : ""
+        }
+    ]
+}
