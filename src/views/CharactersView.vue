@@ -32,5 +32,8 @@
 </script>
 
 <style scoped>
-
+    a {
+        text-decoration: none;
+        color: rgb(41, 41, 41);
+    }
 </style>

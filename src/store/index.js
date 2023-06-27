@@ -20,7 +20,7 @@ export default createStore({
       .then(( characters ) => context.commit( "setCharacters", characters ))
     },
     getCharacter: async ( context, id ) => {
-      fetch( "http://localhost:3000/characters" + id )
+      fetch( "http://localhost:3000/characters/" + id )
       .then(( res ) => res.json())
       .then(( character ) => context.commit( "setCharacter", character ))
     }
