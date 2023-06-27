@@ -1,26 +1,31 @@
 <template>
+    <router-link :to="{name: 'character', params:{id: character.id}}">
     <h3>
-        Character Name
+        {{ character.name }}
     </h3>
-    <img src="" alt="Character Image">
+    <img :src="character.avatar" :alt="character.name" class="characterImg">
     <p>
-        Age: 
+        Age: {{ character.age }}
     </p>
     <p>
-        Height: 
+        Height: {{ character.height }} 
     </p>
     <h4>
-        Akatsuki
+        {{ character.faction }}
     </h4>
-
+    </router-link>
 </template>
 
 <script>
     export default{
-
+        props: ["character"]
     }
 </script>
 
 <style scoped>
-
+    .characterImg{
+        width: 400px;
+        height: 400px;
+        object-fit: cover;
+    }
 </style>

@@ -6,44 +6,44 @@
             "height" : "179",
             "class" : "mist",
             "id" : "1",
-            "avatar" : "https://i.ytimg.com/vi",
+            "avatar" : "https://staticg.sportskeeda.com/editor/2022/07/761e6-16590026863023.png",
             "faction" : "akatsuki"
         },
         {
-            "name" : "",
-            "age" : "",
-            "height" : "",
-            "class" : "",
-            "id" : "",
-            "avatar" : "https://i.ytimg.com/vi",
-            "faction" : ""
+            "name" : "Madara",
+            "age" : "50",
+            "height" : "186",
+            "class" : "leaf",
+            "id" : "2",
+            "avatar" : "https://staticg.sportskeeda.com/editor/2022/05/d57e2-16522641768604-1920.jpg",
+            "faction" : "akatsuki"
         },
         {
-            "name" : "",
-            "age" : "",
-            "height" : "",
-            "class" : "",
-            "id" : "",
-            "avatar" : "https://i.ytimg.com/vi",
-            "faction" : ""
+            "name" : "Sasori",
+            "age" : "19",
+            "height" : "172",
+            "class" : "mist",
+            "id" : "3",
+            "avatar" : "https://beebom.com/wp-content/uploads/2023/04/sasori-stats.jpg?quality=75&strip=all",
+            "faction" : "akatsuki"
         },
         {
-            "name" : "",
-            "age" : "",
-            "height" : "",
-            "class" : "",
-            "id" : "",
-            "avatar" : "https://i.ytimg.com/vi",
-            "faction" : ""
+            "name" : "Itachi",
+            "age" : "24",
+            "height" : "180",
+            "class" : "leaf",
+            "id" : "4",
+            "avatar" : "https://mir-s3-cdn-cf.behance.net/project_modules/fs/255de4170309343.645ba4d049ca8.jpg",
+            "faction" : "akatsuki"
         },
         {
-            "name" : "",
-            "age" : "",
-            "height" : "",
-            "class" : "",
-            "id" : "",
-            "avatar" : "https://i.ytimg.com/vi",
-            "faction" : ""
+            "name" : "Kisame",
+            "age" : "35",
+            "height" : "190",
+            "class" : "mist",
+            "id" : "5",
+            "avatar" : "https://wallpaperaccess.com/full/4582300.jpg",
+            "faction" : "akatsuki"
         }
     ]
 }
